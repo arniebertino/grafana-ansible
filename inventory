@@ -1,11 +1,11 @@
 [prometheus]
-127.0.0.1
+localhost
 
 [node_exporter]
-127.0.0.1
+localhost
 
 [alertmanager]
-127.0.0.1
+localhost
 
 [grafana]
-127.0.0.1
+localhost
